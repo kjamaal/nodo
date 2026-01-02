@@ -16,7 +16,10 @@ const Navigation = () => {
         <div className="flex justify-between h-16">
           <div className="flex">
             <Link to="/" className="flex items-center">
-              <span className="text-2xl font-bold text-brand-black">No Days Off</span>
+              <span className="text-2xl font-bold text-brand-black">
+                <span className="sm:hidden">NODO</span>
+                <span className="hidden sm:inline">No Days Off</span>
+              </span>
             </Link>
           </div>
           <div className="flex items-center space-x-8">
