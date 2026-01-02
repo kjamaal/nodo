@@ -10,9 +10,8 @@ const Home = () => {
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
               No Days Off
             </h1>
-            <p className="text-xl md:text-2xl text-brand-gray-300 mb-8 max-w-3xl mx-auto">
-              Building brands that never quit. We create bold, authentic experiences
-              that resonate with your audience.
+            <p className="text-xl md:text-2xl text-brand-gray-600 mb-8 max-w-3xl mx-auto">
+              Relentless. By Design.  
             </p>
             <div className="flex gap-4 justify-center">
               <Link
