@@ -8,7 +8,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">No Days Off</h3>
             <p className="text-brand-gray-400">
-              Building brands that never quit.
+              Relentless. By Design.
             </p>
           </div>
           <div>
